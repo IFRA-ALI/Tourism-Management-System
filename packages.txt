@@ -1,0 +1,8 @@
+Hunza|First Class|First Class|3|450090.000000
+Skardu|Business Class|Business Class|2|601600.000000
+Kumrat Valley|Business Class|Business Class|4|50500.000000
+Hunza|First Class|First Class|2|752000.000000
+Riyadh|First Class|First Class|78|8328000.000000
+Lahore|First Class|First Class|4|166500.000000
+multan|Business|Business|3|92400.000000
+peshawar|First Class|First Class|3|220500.000000
